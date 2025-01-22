@@ -46,5 +46,3 @@ This project demonstrates the implementation of a simple online retail store dat
 
    ```bash
    pip install pandas
-
-
