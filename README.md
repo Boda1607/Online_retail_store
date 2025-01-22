@@ -41,3 +41,10 @@ This project demonstrates the implementation of a simple online retail store dat
 
    ```bash
    git clone https://github.com/your_username/online_retail_store.git
+
+ 2. Install the required libraries:
+
+   ```bash
+   pip install pandas
+
+
